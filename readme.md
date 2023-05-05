@@ -1,7 +1,7 @@
 # One Rupee Coin Box using Arduino
 
 ## Simulation
-<img src="https://ibb.co/mH2wq9t">
+<img src="https://i.ibb.co/2WJ5V5n/Screenshot-26.png" alt="Screenshot-26" border="0">
 
 ## Output
 <img src="https://ibb.co/61DVYzY">
