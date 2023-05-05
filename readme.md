@@ -9,4 +9,3 @@
 <img src="https://ibb.co/F41htBy">
 <img src="https://ibb.co/ZR9m2dn">
 <img src="https://ibb.co/hdkVLKg">
-<img src="https://ibb.co/3ygdRcW">
